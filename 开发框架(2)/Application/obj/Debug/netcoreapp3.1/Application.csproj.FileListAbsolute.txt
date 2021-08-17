@@ -1,0 +1,1706 @@
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.exe
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.xml
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.Views.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.Views.pdb
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Dal.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.input.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.output.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.RazorCoreGenerate.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Edit.cshtml.g.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Index.cshtml.g.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Edit.cshtml.g.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Index.cshtml.g.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutInner.cshtml.g.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.Views.pdb
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.xml
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Index.cshtml.g.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Edit.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cache
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.exe
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.Views.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Application.Views.pdb
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Dal.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.input.cache
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.output.cache
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.RazorCoreGenerate.cache
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Edit.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Index.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Edit.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Index.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Edit.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Index.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutInner.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cs
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.Views.pdb
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.xml
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Log\log4net.config
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\log4net.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\bin\Debug\netcoreapp3.1\Aspose.Cells.dll
+D:\华发\唐山人才大数据中心\程序\PC\Application\obj\Debug\netcoreapp3.1\Razor\Views\ExcelImportExportDemo\Index.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Log\log4net.config
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Application.exe
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Application.xml
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Application.Views.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Application.Views.pdb
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Aspose.Cells.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Dal.dll
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\Project\NetCore\框架Element\Application\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cache
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.input.cache
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.output.cache
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.RazorCoreGenerate.cache
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Edit.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Index.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Edit.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Index.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Edit.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Index.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Views\ExcelImportExportDemo\Index.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutInner.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cs
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.Views.pdb
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.xml
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\Project\NetCore\框架Element\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Log\log4net.config
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Application.exe
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Application.xml
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Application.Views.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Application.Views.pdb
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Aspose.Cells.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Cathy.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Dal.dll
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Cathy.pdb
+C:\Users\Administrator\Desktop\开发框架\Application\bin\Debug\netcoreapp3.1\Dal.pdb
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.input.cache
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.output.cache
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.RazorCoreGenerate.cache
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Edit.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Edit.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Edit.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Views\ExcelImportExportDemo\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutInner.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.Views.pdb
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.xml
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Administrator\Desktop\开发框架\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Log\log4net.config
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.exe
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.xml
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.Views.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.Views.pdb
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\log4net.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Aspose.Cells.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Dal.dll
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cache
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.xml
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\Application.styles.css
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.input.cache
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.output.cache
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorCoreGenerate.cache
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Edit.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Index.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Edit.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Index.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Edit.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Index.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\ExcelImportExportDemo\Index.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutInner.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cs
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.Views.pdb
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Log\log4net.config
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.exe
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.xml
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.Views.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.Views.pdb
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\log4net.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Aspose.Cells.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Dal.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.xml
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\Application.styles.css
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.input.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.output.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorCoreGenerate.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Edit.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Index.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Edit.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Index.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Edit.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Index.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\ExcelImportExportDemo\Index.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutInner.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.Views.pdb
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Abp.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Core.AsyncInterceptor.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Facilities.Logging.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Slack.Webhooks.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\zhangdan\Edit.cshtml.g.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\zhangdan\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Log\log4net.config
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.exe
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.xml
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.Views.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.Views.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Abp.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Core.AsyncInterceptor.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Facilities.Logging.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\log4net.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Slack.Webhooks.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Aspose.Cells.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Dal.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.xml
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\Application.styles.css
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.input.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.output.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorCoreGenerate.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Edit.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Edit.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Edit.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\zhangdan\Edit.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\zhangdan\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\ExcelImportExportDemo\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutInner.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.Views.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Log\log4net.config
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.exe
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.xml
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.Views.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.Views.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Abp.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Core.AsyncInterceptor.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Facilities.Logging.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\log4net.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Slack.Webhooks.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Aspose.Cells.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Dal.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.xml
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\Application.styles.css
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.input.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.output.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorCoreGenerate.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Edit.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Edit.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Edit.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\zhangdan\Edit.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\zhangdan\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\ExcelImportExportDemo\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutInner.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.Views.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Log\log4net.config
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.exe
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.xml
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.Views.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.Views.pdb
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Abp.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Core.AsyncInterceptor.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Facilities.Logging.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Slack.Webhooks.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Aspose.Cells.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Cathy.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Dal.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Cathy.pdb
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Dal.pdb
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cache
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.xml
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\Application.styles.css
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.input.cache
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.output.cache
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorCoreGenerate.cache
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Edit.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Index.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Edit.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Index.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Edit.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Index.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\zhangdan\Edit.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\zhangdan\Index.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\ExcelImportExportDemo\Index.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutInner.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cs
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.Views.pdb
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\29874\Documents\kai1\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cache
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorAssemblyInfo.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Log\log4net.config
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.exe
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.xml
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.Views.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Application.Views.pdb
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Abp.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Core.AsyncInterceptor.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Facilities.Logging.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\log4net.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Slack.Webhooks.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Aspose.Cells.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Dal.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.xml
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\Application.styles.css
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.input.cache
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.TagHelpers.output.cache
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorCoreGenerate.cache
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Edit.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\FuncManage\Index.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Edit.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Manager\Index.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Edit.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Areas\SystemManage\Views\Role\Index.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\ExcelImportExportDemo\Index.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutInner.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cs
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.Views.pdb
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache

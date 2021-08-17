@@ -1,0 +1,90 @@
+﻿@{
+    ViewData["Title"] = "账单管理";
+    Layout = "~/Views/Shared/_LayoutInner.cshtml";
+}
+@section Headers{
+}
+
+<div id="app">
+    @*头部标题*@
+    <div class="titleIcon"><img src="~/images/titleIcon.png" style="width:32px;height:20px;" />&nbsp;<span id="title">账单管理</span></div>
+    @*搜索框*@
+    <div id="divSearch" class="search">
+        <el-form label-width="60px" class="demo-ruleForm" size="small">
+            <el-row gutter="20">
+                <div class="block">
+                    <span class="demonstration">日期</span>                
+                <el-date-picker v-model="riqi1"
+                                type="daterange"
+                                align="right"@*对齐方式*@                              
+                                range-separator="至"
+                                start-placeholder="开始日期"
+                                end-placeholder="结束日期"
+                                value-format="YYYY-MM-DD"@*格式*@
+                                :picker-options="pickerOptions">@*范围控制*@
+                                
+                </el-date-picker>
+            </div>
+
+                    <el-col span="20">
+                        <el-button type="primary" v-on:click="search(1)" size="small" icon="el-icon-search">查询</el-button>
+
+                        <el-button type="primary" v-on:click="addEdit('00000000-0000-0000-0000-000000000000');" size="small" icon="el-icon-plus">新增</el-button>
+                    </el-col>
+            </el-row>
+        </el-form>
+    </div>
+    <el-table :data="userListInfo" border style="width: 100%" size="small">
+        <el-table-column type="index" label="序号" width="80">
+            <template #default="scope">
+                <span v-html="scope.$index+(currentPage-1) *pageSize+1"></span>
+            </template>
+        </el-table-column>
+        <!--<el-table-column prop="userName" label="姓名">
+                    @*显示框*@
+                    <!--</el-table-column>-->
+                    <el-table-column prop="riqi" label="日期">
+
+                    </el-table-column>
+                    <el-table-column prop="userAccount" label="用途">
+                    </el-table-column>
+                    <el-table-column prop="sexName" label="类型">
+                    </el-table-column>
+                    <el-table-column prop="userTitles" label="备注">
+                    </el-table-column>
+                    <el-table-column prop="roleName" label="成员" show-overflow-tooltip>
+                    </el-table-column>
+                    <el-table-column prop="userMobilePhone" label="金额">
+                    </el-table-column>
+                    @*<el-table-column label="密码初始化" width="100" align="center">
+            <template #default="scope">
+                <el-button type="primary" size="mini" v-on:click="initPassword(scope.row.userId,scope.row.userName)">初始化</el-button>
+            </template>
+        </el-table-column>*@
+                    <el-table-column label="操作" width="150" align="center">
+                        <template #default="scope">
+                            <el-button type="primary" size="mini" v-on:click="addEdit(scope.row.userId)">修改</el-button>
+                            <el-button type="danger" size="mini" v-on:click="delUser(scope.row.userId,scope.row.userName)">删除</el-button>
+                        </template>
+                    </el-table-column>
+                    </el-table>
+                    <br />
+                    @*分页控件Begin*@
+                    <el-pagination background
+                                   layout="prev, pager, next"
+                                   :total="total"
+                                   :page-size="pageSize"
+                                   v-on:current-change="handleCurrentChange"
+                                   v-model:currentPage="currentPage"
+                                   style="float:right;">
+                    </el-pagination>
+                    <div v-html="'共'+total+'条'" class="pageTotal"></div>
+                    @*分页控件End*@
+                    @Html.Partial("Edit")
+                </div>
+
+@section Scripts{
+    <script type="text/javascript">
+        document.writeln("<script src='/systemManage/manager/index.js?rnd=" + Math.random() + "'></s" + "cript>");
+    </script>
+}

@@ -1,0 +1,9 @@
+2021-08-16 10:17:37,451 [14] ERROR  - api/SystemManage/ManagerApi/UserList:从字符串转换日期和/或时间时，转换失败。
+2021-08-16 15:44:32,729 [28] ERROR  - api/SystemManage/ManagerApi/UserDelete:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-16 15:44:47,633 [10] ERROR  - api/SystemManage/ManagerApi/UserDelete:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-16 15:46:02,397 [24] ERROR  - api/SystemManage/ManagerApi/UserDelete:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-16 15:56:14,654 [44] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-16 15:56:42,333 [49] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-16 15:56:55,174 [44] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-16 16:58:28,070 [45] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-16 17:40:53,476 [45] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.

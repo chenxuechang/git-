@@ -1,0 +1,85 @@
+D:\Project\Net\唐山人才大数据中心\程序\PC\Dal\bin\Debug\netcoreapp3.1\Dal.deps.json
+D:\Project\Net\唐山人才大数据中心\程序\PC\Dal\bin\Debug\netcoreapp3.1\Dal.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Dal\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\Project\Net\唐山人才大数据中心\程序\PC\Dal\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Dal\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\Project\Net\唐山人才大数据中心\程序\PC\Dal\obj\Debug\netcoreapp3.1\Dal.csprojAssemblyReference.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfoInputs.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfo.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CoreCompileInputs.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CopyComplete
+D:\Project\Net\唐山人才大数据中心\程序\PC\Dal\obj\Debug\netcoreapp3.1\Dal.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Dal\obj\Debug\netcoreapp3.1\Dal.pdb
+D:\华发\唐山人才大数据中心\程序\PC\Dal\bin\Debug\netcoreapp3.1\Dal.deps.json
+D:\华发\唐山人才大数据中心\程序\PC\Dal\bin\Debug\netcoreapp3.1\Dal.dll
+D:\华发\唐山人才大数据中心\程序\PC\Dal\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\华发\唐山人才大数据中心\程序\PC\Dal\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\华发\唐山人才大数据中心\程序\PC\Dal\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\华发\唐山人才大数据中心\程序\PC\Dal\obj\Debug\netcoreapp3.1\Dal.csprojAssemblyReference.cache
+D:\华发\唐山人才大数据中心\程序\PC\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfoInputs.cache
+D:\华发\唐山人才大数据中心\程序\PC\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfo.cs
+D:\华发\唐山人才大数据中心\程序\PC\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CoreCompileInputs.cache
+D:\华发\唐山人才大数据中心\程序\PC\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CopyComplete
+D:\华发\唐山人才大数据中心\程序\PC\Dal\obj\Debug\netcoreapp3.1\Dal.dll
+D:\华发\唐山人才大数据中心\程序\PC\Dal\obj\Debug\netcoreapp3.1\Dal.pdb
+D:\Project\NetCore\框架Element\Dal\bin\Debug\netcoreapp3.1\Dal.deps.json
+D:\Project\NetCore\框架Element\Dal\bin\Debug\netcoreapp3.1\Dal.dll
+D:\Project\NetCore\框架Element\Dal\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\Project\NetCore\框架Element\Dal\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\Project\NetCore\框架Element\Dal\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\Project\NetCore\框架Element\Dal\obj\Debug\netcoreapp3.1\Dal.csprojAssemblyReference.cache
+D:\Project\NetCore\框架Element\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfoInputs.cache
+D:\Project\NetCore\框架Element\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfo.cs
+D:\Project\NetCore\框架Element\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CoreCompileInputs.cache
+D:\Project\NetCore\框架Element\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CopyComplete
+D:\Project\NetCore\框架Element\Dal\obj\Debug\netcoreapp3.1\Dal.dll
+D:\Project\NetCore\框架Element\Dal\obj\Debug\netcoreapp3.1\Dal.pdb
+D:\练习\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Dal.deps.json
+D:\练习\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Dal.dll
+D:\练习\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\练习\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.AssemblyReference.cache
+D:\练习\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfoInputs.cache
+D:\练习\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfo.cs
+D:\练习\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CoreCompileInputs.cache
+D:\练习\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CopyComplete
+D:\练习\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.dll
+D:\练习\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.pdb
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Dal.deps.json
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Dal.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.AssemblyReference.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfoInputs.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfo.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CoreCompileInputs.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CopyComplete
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Dal.deps.json
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Dal.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.AssemblyReference.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfoInputs.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfo.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CoreCompileInputs.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CopyComplete
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Dal.deps.json
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Dal.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.AssemblyReference.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfoInputs.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfo.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CoreCompileInputs.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CopyComplete
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.GeneratedMSBuildEditorConfig.editorconfig

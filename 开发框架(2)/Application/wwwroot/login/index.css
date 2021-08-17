@@ -1,0 +1,30 @@
+﻿body {
+    background: #ebf4f9 url("/images/loginBg.png") repeat-x;
+}
+
+
+.loginKuang {
+    width: 700px;
+    height: 386px;
+    margin: 208px auto 0px;
+    background: url("/images/login.png") no-repeat;
+}
+
+.loginInfo {
+    margin: 0px;
+    padding: 100px 0px 0px 220px;
+}
+
+.form-control {
+    border: 1px solid #827f7f;
+}
+
+#code {
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    border: 0;
+    letter-spacing: 2px;
+    color: blue;
+    font-size: 18px;
+}

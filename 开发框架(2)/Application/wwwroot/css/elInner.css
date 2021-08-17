@@ -1,0 +1,45 @@
+﻿.el-table__header col[name=gutter] {
+    display:none;
+}
+
+.el-table th {
+    background: #e9edf5;
+}
+
+.el-table--border td, .el-table--border th, .el-table__body-wrapper .el-table--border.is-scrolling-left ~ .el-table__fixed {
+    border-right: 1px solid #ccc;
+}
+
+.el-table td, .el-table th.is-leaf {
+    border-bottom: 1px solid #ccc;
+}
+
+.el-table--border, .el-table--group {
+    border: 1px solid #ccc;
+}
+
+.el-table--small {
+    font-size: 14px;
+}
+
+.el-table thead {
+    color: #606266;
+}
+
+.el-button--mini {
+    padding:4px 10px;
+    min-height:24px;
+}
+
+.pageTotal {
+    display: inline-block;
+    float: right;
+    height: 32px;
+    line-height: 32px;
+}
+
+/*弹框的取消按钮靠右*/
+.btn-custom-cancel {
+    float: right;
+    margin-left: 10px;
+}

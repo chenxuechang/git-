@@ -1,0 +1,21 @@
+﻿body {
+    margin:0px;
+    padding:0px;
+}
+.el-container {
+    margin:0px;
+    padding:0px;
+    height:100vh;
+}
+
+.el-aside {
+    padding:5px;
+}
+
+.el-main {
+    padding: 5px;
+}
+
+label {
+    font-weight:normal;
+}

@@ -1,0 +1,41 @@
+﻿<el-dialog title="成员编辑" v-model="editFormDialog" top="5vh">
+    <div style="height:65vh;overflow:auto;">
+        <div style="width:98%">
+            <el-container>
+                <el-aside width="250px">
+                    <div style="border-bottom: 1px solid rgb(204, 204, 204); font-size: 15px; height: 25px; margin-bottom:10px;">基本信息</div>
+                    <el-form size="small" label-width="60px" :model="roleInfo" ref="roleInfo" :rules="rules">
+                        <el-form-item label="成员名称" prop="roleName">
+                            <el-input v-model="roleInfo.roleName"></el-input>
+                        </el-form-item>
+                        <el-form-item label="成员地位" prop="roleCode">
+                            <el-input v-model="roleInfo.roleCode"></el-input>
+                        </el-form-item>
+                        <el-form-item label="等级" prop="sort" type="number">
+                            <el-input v-model.number="roleInfo.sort"></el-input>
+                        </el-form-item>
+                    </el-form>
+                </el-aside>
+                <el-main>
+                    <div style="border-bottom: 1px solid rgb(204, 204, 204); font-size: 15px; height: 25px; margin-bottom:10px;">选择权限</div>
+                    <el-tree ref="tree" 
+                             default-expand-all 
+                             highlight-current 
+                             :expand-on-click-node="false" 
+                             :data="treeData" 
+                             :props="defaultProps" 
+                             :default-checked-keys="selectMenus"
+                             node-key="id" 
+                             show-checkbox>
+                    </el-tree>
+                </el-main>
+            </el-container>
+        </div>
+    </div>
+    <template #footer>
+        <span class="dialog-footer">
+            <el-button type="primary" size="small" v-on:click="save()">确 定</el-button>
+            <el-button size="small" v-on:click="editFormDialog=false">取 消</el-button>
+        </span>
+    </template>
+</el-dialog>

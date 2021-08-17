@@ -1,0 +1,63 @@
+﻿body {
+    margin: 0px;
+    padding: 5px;
+}
+
+.search {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 5px;
+    margin:10px auto;
+}
+
+.titleIcon {
+    height: 30px;
+    line-height: 30px;
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.form-inline .form-group {
+    /*margin-bottom: 5px;*/
+}
+
+.modal-body .form-control {
+    width: 90%;
+}
+
+.form-control {
+    color:#333;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    background-color: #fff;
+}
+
+legend {
+    display: block;
+    width: auto;
+    padding: 0;
+    margin-left: 10px;
+    font-size: inherit;
+    line-height: inherit;
+    color: #333;
+    border: 0;
+    border-bottom: 0px solid #e5e5e5;
+}
+
+fieldset {
+    border-top: 1px solid #ccc;
+}
+
+#tableEdit .left {
+    text-align:right;
+    padding-right:10px;
+}
+
+

@@ -1,0 +1,73 @@
+D:\Project\Net\唐山人才大数据中心\程序\PC\Cathy\bin\Debug\netcoreapp3.1\Cathy.deps.json
+D:\Project\Net\唐山人才大数据中心\程序\PC\Cathy\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Cathy\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\Project\Net\唐山人才大数据中心\程序\PC\Cathy\obj\Debug\netcoreapp3.1\Cathy.csprojAssemblyReference.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfoInputs.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfo.cs
+D:\Project\Net\唐山人才大数据中心\程序\PC\Cathy\obj\Debug\netcoreapp3.1\Cathy.csproj.CoreCompileInputs.cache
+D:\Project\Net\唐山人才大数据中心\程序\PC\Cathy\obj\Debug\netcoreapp3.1\Cathy.dll
+D:\Project\Net\唐山人才大数据中心\程序\PC\Cathy\obj\Debug\netcoreapp3.1\Cathy.pdb
+D:\华发\唐山人才大数据中心\程序\PC\Cathy\bin\Debug\netcoreapp3.1\Cathy.deps.json
+D:\华发\唐山人才大数据中心\程序\PC\Cathy\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\华发\唐山人才大数据中心\程序\PC\Cathy\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\华发\唐山人才大数据中心\程序\PC\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfoInputs.cache
+D:\华发\唐山人才大数据中心\程序\PC\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfo.cs
+D:\华发\唐山人才大数据中心\程序\PC\Cathy\obj\Debug\netcoreapp3.1\Cathy.csproj.CoreCompileInputs.cache
+D:\华发\唐山人才大数据中心\程序\PC\Cathy\obj\Debug\netcoreapp3.1\Cathy.dll
+D:\华发\唐山人才大数据中心\程序\PC\Cathy\obj\Debug\netcoreapp3.1\Cathy.pdb
+D:\华发\唐山人才大数据中心\程序\PC\Cathy\obj\Debug\netcoreapp3.1\Cathy.csprojAssemblyReference.cache
+D:\Project\NetCore\框架Element\Cathy\bin\Debug\netcoreapp3.1\Cathy.deps.json
+D:\Project\NetCore\框架Element\Cathy\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\Project\NetCore\框架Element\Cathy\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\Project\NetCore\框架Element\Cathy\obj\Debug\netcoreapp3.1\Cathy.csprojAssemblyReference.cache
+D:\Project\NetCore\框架Element\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfoInputs.cache
+D:\Project\NetCore\框架Element\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfo.cs
+D:\Project\NetCore\框架Element\Cathy\obj\Debug\netcoreapp3.1\Cathy.csproj.CoreCompileInputs.cache
+D:\Project\NetCore\框架Element\Cathy\obj\Debug\netcoreapp3.1\Cathy.dll
+D:\Project\NetCore\框架Element\Cathy\obj\Debug\netcoreapp3.1\Cathy.pdb
+C:\Users\Administrator\Desktop\开发框架\Cathy\bin\Debug\netcoreapp3.1\Cathy.deps.json
+C:\Users\Administrator\Desktop\开发框架\Cathy\bin\Debug\netcoreapp3.1\Cathy.dll
+C:\Users\Administrator\Desktop\开发框架\Cathy\bin\Debug\netcoreapp3.1\Cathy.pdb
+C:\Users\Administrator\Desktop\开发框架\Cathy\obj\Debug\netcoreapp3.1\Cathy.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\开发框架\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\开发框架\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\开发框架\Cathy\obj\Debug\netcoreapp3.1\Cathy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\开发框架\Cathy\obj\Debug\netcoreapp3.1\Cathy.dll
+C:\Users\Administrator\Desktop\开发框架\Cathy\obj\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\开发框架(2)\Cathy\bin\Debug\netcoreapp3.1\Cathy.deps.json
+D:\练习\开发框架(2)\Cathy\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\开发框架(2)\Cathy\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.csproj.AssemblyReference.cache
+D:\练习\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfoInputs.cache
+D:\练习\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfo.cs
+D:\练习\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.csproj.CoreCompileInputs.cache
+D:\练习\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Cathy\bin\Debug\netcoreapp3.1\Cathy.deps.json
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Cathy\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Cathy\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.csproj.AssemblyReference.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfoInputs.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfo.cs
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.csproj.CoreCompileInputs.cache
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\新建文件夹\新建文件夹\新建文件夹\练习\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Cathy\bin\Debug\netcoreapp3.1\Cathy.deps.json
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Cathy\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Cathy\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.csproj.AssemblyReference.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfoInputs.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfo.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.csproj.CoreCompileInputs.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Cathy\bin\Debug\netcoreapp3.1\Cathy.deps.json
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Cathy\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Cathy\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.csproj.AssemblyReference.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfoInputs.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.AssemblyInfo.cs
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.csproj.CoreCompileInputs.cache
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.dll
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.pdb
+D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Cathy\obj\Debug\netcoreapp3.1\Cathy.GeneratedMSBuildEditorConfig.editorconfig

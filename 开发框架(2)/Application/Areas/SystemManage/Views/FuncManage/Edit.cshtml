@@ -1,0 +1,41 @@
+﻿<el-dialog title="功能管理-编辑" v-model="editFormDialog" top="5vh">
+    <div>
+        <div style="width:98%">
+            <el-form size="small" label-width="80px" :model="menuInfo" ref="menuInfo" :rules="rules">
+                <el-form-item label="名称" prop="menuName">
+                    <el-input v-model="menuInfo.menuName"></el-input>
+                </el-form-item>
+                <el-form-item label="编码" prop="menuCode">
+                    <el-input v-model="menuInfo.menuCode"></el-input>
+                </el-form-item>
+                <el-form-item label="分类">
+                    <el-select v-model="typeValue">
+                        <el-option v-for="item in typeOptions"
+                                   :key="item.value"
+                                   :label="item.label"
+                                   :value="item.value">
+                        </el-option>
+                    </el-select>
+                </el-form-item>
+                <el-form-item label="URL">
+                    <el-input v-model="menuInfo.menuUrl"></el-input>
+                </el-form-item>
+                <el-form-item label="目标">
+                    <el-input v-model="menuInfo.menuTarget"></el-input>
+                </el-form-item>
+                <el-form-item label="目录图标">
+                    <el-input v-model="menuInfo.iconClass"></el-input>
+                </el-form-item>
+                <el-form-item label="排序" prop="menuSort" type="number">
+                    <el-input v-model.number="menuInfo.menuSort"></el-input>
+                </el-form-item>
+            </el-form>
+        </div>
+    </div>
+    <template #footer>
+        <span class="dialog-footer">
+            <el-button type="primary" size="small" v-on:click="save()">确 定</el-button>
+            <el-button size="small" v-on:click="editFormDialog=false">取 消</el-button>
+        </span>
+    </template>
+</el-dialog>

@@ -1,0 +1,82 @@
+﻿<el-dialog title="账单编辑" v-model="editFormDialog" top="5vh">@*新增之地*@
+    <div style="height:60vh;overflow:auto;">
+        <div style="width:98%">
+            <el-form size="small" label-width="80px" :model="userInfo" ref="userInfo" :rules="rules">
+                <el-form-item label="用途" prop="userAccount">
+                    <el-input v-model="userInfo.userAccount"></el-input>
+                </el-form-item>
+             
+            <el-form-item label="日期" prop="riqi">
+
+               
+                <div class="block">
+                    <span class="demonstration"></span>
+                    <el-date-picker v-model="userInfo.riqi"
+                                    value-format="YYYY-MM-DD" @*HH:mm:ss*@
+                                    type="date" @*datetime*@
+                                    placeholder="选择日期时间">
+                                    
+                    </el-date-picker>
+              
+                </div>
+                @*<label for="meeting"></label>*@@*<input v-model="userInfo.riqi" id="meeting" type="date" value="2014-01-13" />*@
+                @*<el-input v-model="userInfo.riqi"></el-input>*@
+                @*//<el-input v-model="userInfo.riqi" onkeyup="value = value.replace(/^[\u4e00-\u9fa5]+$/);"></el-input>*@
+            </el-form-item>
+
+                @*<el-select v-model="userRoles" placeholder="请选择">
+            <el-option v-for="item in cities"
+                       :key="item.value"
+                       :label="item.label"
+                       :value="item.value">
+                <span style="float: left">{{ item.label }}</span>
+                <span style="float: right; color: #8492a6; font-size: 13px">{{ item.value }}</span>
+            </el-option>
+        </el-select>*@
+
+                <el-form-item label="类型" prop="userSex">
+                    <el-radio-group v-model="userInfo.userSex">
+                        @*<el-radio :label="'1'">收入</el-radio>
+                        <el-radio :label="'2'">支出</el-radio>*@
+                        @*<label for="sex">性别:</label>*@
+                        <select v-model="userInfo.userSex" id="sex">
+                            <option label="收入">1</option>
+                            <option label="支出">2</option>
+                        </select>
+                    </el-radio-group>
+                </el-form-item>
+
+
+                
+
+                <el-form-item label="成员" prop="userRoles">
+                    <el-select multiple collapse-tags filterable placeholder="请选择" v-model="userInfo.userRoles">
+                        <el-option v-for="item in userRole"
+                                   :key="item.roleId"
+                                   :label="item.roleName"
+                                   :value="item.roleId">
+                        </el-option>
+                    </el-select>
+                </el-form-item>
+                <el-form-item label="备注">
+                    <el-input v-model="userInfo.userTitles"></el-input>
+                </el-form-item>
+                @*<el-form-item label="办公电话" prop="userTelPhone">
+            <el-input  v-model="userInfo.userTelPhone"></el-input>
+        </el-form-item>*@
+                <el-form-item label="金额" prop="userMobilePhone">
+                    <el-input v-model="userInfo.userMobilePhone" onkeyup="value = value.replace(/(\d)(?=(?:\d{3})+$));"></el-input>
+                </el-form-item>
+                @*<el-form-item label="E-Mail" prop="userEmail">
+            <el-input v-model="userInfo.userEmail"></el-input>
+        </el-form-item>*@
+            </el-form>
+        </div>
+    </div>
+    <template #footer>
+        <span class="dialog-footer">
+            <el-button type="primary" size="small" v-on:click="save()">确 定</el-button>
+            <el-button size="small" v-on:click="editFormDialog=false">取 消</el-button>
+        </span>
+    </template>
+</el-dialog>

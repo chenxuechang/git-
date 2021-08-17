@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "成员管理";
+    Layout = "~/Views/Shared/_LayoutInner.cshtml";
+}
+@section Headers{
+    <style type="text/css">
+        .el-main {
+            padding: 0px 30px 0px;
+        }
+    </style>
+}
+
+<div id="app">
+    @*头部标题*@
+    <div class="titleIcon"><img src="~/images/titleIcon.png" style="width:32px;height:20px;" />&nbsp;<span id="title">成员管理</span></div>
+    @*搜索框*@
+    <div id="divSearch" class="search">
+        <el-form label-width="100px" class="demo-ruleForm" size="small">
+            <el-row gutter="20">
+                <el-col span="4">
+                    <el-form-item label="成员名称">
+                        <el-input v-model=""></el-input>
+                    </el-form-item>
+                </el-col>
+                <el-col span="20">
+                    <el-button type="primary" v-on:click="search(1)" size="small" icon="el-icon-search">查询</el-button>
+                    <el-button type="primary" v-on:click="addEdit('00000000-0000-0000-0000-000000000000');" size="small" icon="el-icon-plus">新增</el-button>
+                </el-col>
+            </el-row>
+        </el-form>
+    </div>
+    <el-table :data="roleListInfo" border style="width: 100%" size="small">
+        <el-table-column type="index" label="序号" width="80">
+            <template #default="scope">
+                <span v-html="scope.$index+(currentPage-1) *pageSize+1"></span>
+            </template>
+        </el-table-column>
+        <el-table-column prop="roleName" label="成员名称">
+        </el-table-column>
+        <el-table-column prop="roleCode" label="成员地位">
+        </el-table-column>
+        <el-table-column prop="sort" label="等级">
+        </el-table-column>
+        <el-table-column prop="lastUpdateTime" label="更新时间">
+            <template #default="scope">
+                <div v-html="dateFormat(scope.row.lastUpdateTime)"></div>
+            </template>
+        </el-table-column>
+        <el-table-column label="操作" width="150" align="center">
+            <template #default="scope">
+                <el-button type="primary" size="mini" v-on:click="addEdit(scope.row.roleId)">修改</el-button>
+                <el-button type="danger" size="mini" v-on:click="delRole(scope.row.roleId,scope.row.roleName)">删除</el-button>
+            </template>
+        </el-table-column>
+    </el-table>
+    <br />
+    @*分页控件Begin*@
+    <el-pagination background
+                   layout="prev, pager, next"
+                   :total="total"
+                   :page-size="pageSize"
+                   v-on:current-change="handleCurrentChange"
+                   v-model:currentPage="currentPage"
+                   style="float:right;">
+    </el-pagination>
+    <div v-html="'共'+total+'条'" class="pageTotal"></div>
+    @*分页控件End*@
+    @Html.Partial("Edit")
+</div>
+
+@section Scripts{
+    <script type="text/javascript">
+        document.writeln("<script src='/systemManage/role/index.js?rnd=" + Math.random() + "'></s" + "cript>");
+    </script>
+}

@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutInner.cshtml";
+}
+@section Headers{
+    <link href="~/css/bootstrap-3.3.7-dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/systemManage/funcManage/index.css" rel="stylesheet" />
+}
+
+<div id="app">
+    <el-container>
+        <el-aside width="200px">
+            <el-tree ref="tree" default-expand-all highlight-current :expand-on-click-node="false" :data="treeData" :props="defaultProps" v-on:node-click="handleNodeClick"></el-tree>
+        </el-aside>
+        <el-main>
+            <div class="titleIcon">
+                <img src="~/images/titleIcon.png" style="width:32px;height:20px;" />&nbsp;
+                <span id="title" v-html="title">功能管理</span>
+                <el-button type="primary" size="small" icon="el-icon-search" style="float:right;" v-on:click="addEdit('00000000-0000-0000-0000-000000000000');">新增</el-button>
+            </div>
+            <br />
+            <el-table :data="menuListInfo" border style="width: 100%" size="small">
+                <el-table-column type="index" label="序号" width="80">
+                    <template #default="scope">
+                        <span v-html="scope.$index+1"></span>
+                    </template>
+                </el-table-column>
+                <el-table-column prop="menuName" label="名称">
+                </el-table-column>
+                <el-table-column prop="menuCode" label="编码">
+                </el-table-column>
+                <el-table-column prop="menuUrl" label="URL">
+                </el-table-column>
+                <el-table-column prop="menuTarget" label="目标">
+                </el-table-column>
+                <el-table-column label="分类">
+                    <template #default="scope">
+                        <div v-html="scope.row.menuType=='1'?'目录':'功能'"></div>
+                    </template>
+                </el-table-column>
+                <el-table-column prop="iconClass" label="图标">
+                    <template #default="scope">
+                        <div v-html="menuIcon(scope.row.iconClass)"></div>
+                    </template>
+                </el-table-column>
+                <el-table-column prop="menuSort" label="排序">
+                </el-table-column>
+                <el-table-column label="操作" width="150" align="center">
+                    <template #default="scope">
+                        <el-button type="primary" size="mini" v-on:click="addEdit(scope.row.menuId)">修改</el-button>
+                        <el-button type="danger" size="mini" v-on:click="delMenu(scope.row.menuId,scope.row.menuName)">删除</el-button>
+                    </template>
+                </el-table-column>
+            </el-table>
+        </el-main>
+    </el-container>
+    @Html.Partial("Edit")
+</div>
+
+@section Scripts{
+    <script type="text/javascript">
+        document.writeln("<script src='/systemManage/funcManage/index.js?rnd=" + Math.random() + "'></s" + "cript>");
+    </script>
+}

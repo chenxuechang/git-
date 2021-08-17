@@ -1,0 +1,7 @@
+﻿.layui-tree li ul {
+    margin-left: 10px;
+}
+
+    .layui-tree li ul li {
+        margin-left: 25px;
+    }

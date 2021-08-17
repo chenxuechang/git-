@@ -1,0 +1,66 @@
+2021-08-13 13:50:36,407 [20] ERROR  - api/SystemManage/ManagerApi/chafanwei:操作数类型冲突: uniqueidentifier 与 datetime 不兼容
+2021-08-13 13:51:41,296 [21] ERROR  - api/SystemManage/ManagerApi/chafanwei:操作数类型冲突: uniqueidentifier 与 datetime 不兼容
+2021-08-13 13:57:52,884 [12] ERROR  - api/SystemManage/ManagerApi/chafanwei:操作数类型冲突: uniqueidentifier 与 datetime 不兼容
+2021-08-13 13:58:10,986 [12] ERROR  - api/SystemManage/ManagerApi/chafanwei:操作数类型冲突: uniqueidentifier 与 datetime 不兼容
+2021-08-13 14:27:20,400 [14] ERROR  - api/SystemManage/ManagerApi/UserSave:将截断字符串或二进制数据。
+语句已终止。
+2021-08-13 14:28:57,008 [14] ERROR  - api/SystemManage/ManagerApi/UserSave:将截断字符串或二进制数据。
+语句已终止。
+2021-08-13 14:30:37,983 [7] ERROR  - api/SystemManage/ManagerApi/UserSave:将截断字符串或二进制数据。
+语句已终止。
+2021-08-13 14:30:47,447 [14] ERROR  - api/SystemManage/ManagerApi/UserSave:将截断字符串或二进制数据。
+语句已终止。
+2021-08-13 14:44:09,480 [22] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:19,388 [9] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:21,459 [17] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:22,861 [9] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:23,773 [6] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:23,973 [9] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:24,161 [9] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:24,918 [6] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:25,172 [6] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:29,843 [6] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:34,492 [9] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:36,396 [9] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:36,595 [9] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:37,267 [9] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:38,131 [8] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:39,562 [8] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:41,004 [9] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:42,354 [17] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:43,643 [9] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:44,817 [9] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:45,930 [9] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:45:51,025 [6] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:49:09,220 [10] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:49:18,859 [26] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:50:05,770 [12] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 14:50:11,177 [12] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 15:00:50,845 [10] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 15:08:43,799 [12] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 15:27:11,201 [24] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 15:29:06,959 [12] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 15:30:51,590 [9] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 15:30:59,503 [14] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 15:31:48,409 [27] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 16:41:36,775 [4] ERROR  - api/SystemManage/ManagerApi/UserSave:将截断字符串或二进制数据。
+语句已终止。
+2021-08-13 16:50:08,326 [9] ERROR  - api/SystemManage/ManagerApi/UserSave:将截断字符串或二进制数据。
+语句已终止。
+2021-08-13 16:50:27,872 [4] ERROR  - api/SystemManage/ManagerApi/UserSave:将截断字符串或二进制数据。
+语句已终止。
+2021-08-13 16:52:26,058 [12] ERROR  - api/SystemManage/ManagerApi/UserSave:将截断字符串或二进制数据。
+语句已终止。
+2021-08-13 16:53:03,360 [13] ERROR  - api/SystemManage/ManagerApi/UserSave:将截断字符串或二进制数据。
+语句已终止。
+2021-08-13 16:53:08,383 [13] ERROR  - api/SystemManage/ManagerApi/UserSave:将截断字符串或二进制数据。
+语句已终止。
+2021-08-13 16:53:13,284 [13] ERROR  - api/SystemManage/ManagerApi/UserSave:将截断字符串或二进制数据。
+语句已终止。
+2021-08-13 17:56:50,801 [10] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 17:58:41,990 [10] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 18:06:36,449 [14] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 19:08:46,318 [10] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 19:11:54,341 [9] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 19:12:55,153 [33] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-13 19:15:06,709 [13] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.

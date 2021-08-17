@@ -1,0 +1,1395 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Application</name>
+    </assembly>
+    <members>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.DrpListRoleOutput">
+            <summary>
+            角色下拉输出参数
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.DrpListRoleOutput.resultInfo">
+             <summary>
+            结果信息//不用改
+             </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.DrpListRoleOutput.listRoleManage">
+            <summary>
+            角色列表改为成员列表
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.InitPassWordInput">
+            <summary>
+            初始化密码输入参数//这个有定位作用
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.InitPassWordInput.userId">
+            <summary>
+            通过用户Id来定位//有用
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.InitPassWordInput.shuriqi">
+            <summary>
+            时间定位
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.InitPassWordInput.kaishi">
+            <summary>
+            开始定位
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.InitPassWordInput.jieshu">
+            <summary>
+            结束定位
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.leixingxialacanshu">
+            <summary>
+            类型下拉输出参数//
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.leixingxialacanshu.resultInfo">
+             <summary>
+            结果信息//不用改
+             </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.leixingxialacanshu.leixingxialacaidan">
+            <summary>
+            类型下拉菜单
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.ListMenuInfoInput">
+            <summary>
+            菜单列表输入参数//不用改
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.ListMenuInfoInput.parentId">
+             <summary>
+            父菜单ID
+             </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.ListMenuInfoOutput">
+            <summary>
+            菜单列表输出参数//不用改
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.ListMenuInfoOutput.resultInfo">
+            <summary>
+            处理结果
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.ListMenuInfoOutput.listMenu">
+            <summary>
+            菜单列表
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.MenuCodeExistsInput">
+            <summary>
+            菜单编码已存在输入参数//不用改
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.MenuCodeExistsInput.menuCode">
+            <summary>
+            菜单编码
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.MenuCodeExistsInput.menuId">
+            <summary>
+            菜单ID
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.MenuDeleteInput">
+            <summary>
+            菜单删除输入参数//不用改
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.MenuDeleteInput.menuId">
+            <summary>
+            菜单ID
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.MenuNameExistInput">
+            <summary>
+            菜单名称是否已存在输入参数//不用改
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.MenuNameExistInput.menuName">
+            <summary>
+            菜单名称
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.MenuNameExistInput.parentId">
+            <summary>
+            父级ID
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.MenuNameExistInput.menuId">
+            <summary>
+            当前菜单Id
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.MenuSaveInput">
+            <summary>
+            菜单保存输入参数//不用改
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.MenuSaveInput.menuInfo">
+            <summary>
+            菜单信息
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.MenuSaveOutput">
+            <summary>
+            菜单保存输出参数//不用改
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.MenuSaveOutput.menuInfo">
+            <summary>
+            菜单信息
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.MenuSingleInfoInput">
+            <summary>
+            单个菜单信息输入参数//不用改
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.MenuSingleInfoInput.menuId">
+            <summary>
+            菜单ID
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.MenuTreeOutput">
+            <summary>
+            菜单树输出参数//不用改
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.TreeNode">
+            <summary>
+            树节点
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.TreeNode.id">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.TreeNode.label">
+            <summary>
+            显示值
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.TreeNode.children">
+            <summary>
+            孩子节点
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.RoleSearchInput">
+            <summary>
+            角色查询输入参数//通用的不用改
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.RoleSearchInput.roleName">
+            <summary>
+            角色名称
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.RoleSearchInput.pageIndex">
+            <summary>
+            第X页页码（从1开始）
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.RoleSearchInput.pageSize">
+            <summary>
+            每页条数
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.RoleInfoInput">
+            <summary>
+            角色信息输入参数//通用的不用改
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.RoleInfoInput.roleId">
+            <summary>
+            角色ID
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.RoleInfoOutput">
+            <summary>
+            角色信息输出参数//通用的不用改
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.RoleInfoOutput.resultInfo">
+            <summary>
+            访问结果
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.RoleInfoOutput.RoleAndMenuInfo">
+            <summary>
+            角色和菜单信息
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.RoleAndMenuInfo">
+            <summary>
+            角色和菜单信息
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.RoleAndMenuInfo.roleManage">
+            <summary>
+            角色信息//通用的不用改
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.RoleAndMenuInfo.listRoleMenu">
+            <summary>
+            角色所拥有的菜单权限//权限区域勾选就行，不用管
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.RoleListOutput">
+            <summary>
+            角色列表输出
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.RoleListOutput.listRoleManage">
+            <summary>
+            角色列表
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.SaveRoleInfoInput">
+            <summary>
+            应该是角色菜单输入的地
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.SaveRoleInfoInput.roleManage">
+            <summary>
+            角色管理
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.SaveRoleInfoInput.listRoleMenus">
+            <summary>
+            角色列表
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.UserAccountValidateInput">
+            <summary>
+            用户帐号验证输入
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserAccountValidateInput.userAccount">
+            <summary>
+            用户帐号
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserAccountValidateInput.userId">
+            <summary>
+            用户ID
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.UserCountInput">
+            <summary>
+            用户查询输入
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserCountInput.userName">
+            <summary>
+            用户姓名
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserCountInput.shuriqi">
+            <summary>
+            输入日期
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserCountInput.kaishi">
+            <summary>
+            数入开始
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserCountInput.jieshu">
+            <summary>
+            数入结束
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserCountInput.pageIndex">
+            <summary>
+            第X页页码（从1开始）
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserCountInput.pageSize">
+            <summary>
+            每页条数
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.UserCountOutput">
+            <summary>
+            数量结果
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserCountOutput.resultInfo">
+            <summary>
+            结果信息
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserCountOutput.userCount">
+             <summary>
+            用户数量
+             </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.UserListOutput">
+            <summary>
+            用户列表输出之地
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserListOutput.resultInfo">
+            <summary>
+            结果信息
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserListOutput.listUserInfo">
+            <summary>
+            用户列表信息
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.UserInfo">
+            <summary>
+            用户信息
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserInfo.UserId">
+            <summary>
+            用户Id
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserInfo.UserAccount">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserInfo.UserName">
+            <summary>
+            用户账户
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserInfo.UserSex">
+            <summary>
+            用户性别（1收入 2支出）
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserInfo.UserTitles">
+            <summary>
+            用户名称
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserInfo.UserDept">
+            <summary>
+            用户部门
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserInfo.UserMobilePhone">
+            <summary>
+            用户手机
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserInfo.SexName">
+             <summary>
+            性别名字（收入或支出）
+             </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserInfo.RoleName">
+            <summary>
+            角色名字
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserInfo.riqi">
+            <summary>
+            时间
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserInfo.riqiName">
+            <summary>
+            时间名字
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserInfo.kaishi">
+            <summary>
+            开始
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserInfo.jieshu">
+            <summary>
+            结束
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.UserSaveInput">
+            <summary>
+            用户保存输入//很重要
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSaveInput.UserId">
+            <summary>
+            用户ID通用的
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSaveInput.UserAccount">
+            <summary>
+            帐号改为用途
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSaveInput.UserName">
+            <summary>
+            姓名//日期
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSaveInput.riqi">
+            <summary>
+            保存输入时间
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSaveInput.shuriqi">
+            <summary>
+            保存输入日期
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSaveInput.UserSex">
+            <summary>
+            性别（1收入2支出）
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSaveInput.UserTitles">
+            <summary>
+            职称改为备注
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSaveInput.UserTelPhone">
+            <summary>
+            办公电话，没用
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSaveInput.UserMobilePhone">
+            <summary>
+            手机改为金额
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSaveInput.UserEmail">
+            <summary>
+            E-mail//没用
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSaveInput.UserRoles">
+            <summary>
+            用户角色//没想好咋用
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSaveInput.kaishi">
+            <summary>
+            保存数入开始
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSaveInput.jieshu">
+            <summary>
+            保存数入结束
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.UserSingleInfoOutput">
+            <summary>
+            用户信息输出//不用改
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSingleInfoOutput.resultInfo">
+            <summary>
+            结果信息
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSingleInfoOutput.userSaveInput">
+            <summary>
+            用户信息
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.UserSingleInfoOutput.riqi">
+            <summary>
+            时间信息输出
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.Dto.ValidateRoleNameInput">
+            <summary>
+            应该是验证输入名称的//没想好咋用
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.ValidateRoleNameInput.roleName">
+            <summary>
+            角色名称
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Controllers.Dto.ValidateRoleNameInput.roleId">
+            <summary>
+            角色ID
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.FuncManageApiController">
+            <summary>
+            系统管理-功能管理
+            </summary>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.FuncManageApiController.MenuSingleInfo(Application.Areas.SystemManage.Controllers.Dto.MenuSingleInfoInput)">
+            <summary>
+             单个菜单信息//暂时用不上，以后看
+             </summary>
+             <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.FuncManageApiController.ListTree">
+            <summary>
+            加载功能菜单
+            </summary>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.FuncManageApiController.MenuNameExist(Application.Areas.SystemManage.Controllers.Dto.MenuNameExistInput)">
+            <summary>
+            同一父级下的菜单名称是否已存在
+            </summary>
+            <param name="menuNameExistInput"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.FuncManageApiController.MenuCodeExist(Application.Areas.SystemManage.Controllers.Dto.MenuCodeExistsInput)">
+            <summary>
+            菜单编码是否已存在
+            </summary>
+            <param name="menuCodeExistsInput"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.FuncManageApiController.ListMenuInfo(Application.Areas.SystemManage.Controllers.Dto.ListMenuInfoInput)">
+            <summary>
+            根据父ID查菜单信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.FuncManageApiController.MenuDelete(Application.Areas.SystemManage.Controllers.Dto.MenuDeleteInput)">
+            <summary>
+            删除菜单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.FuncManageApiController.MenuSave(Application.Areas.SystemManage.Controllers.Dto.MenuSaveInput)">
+            <summary>
+            功能保存
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.FuncManageController">
+            <summary>
+            应该是管理职称的或者是管理权限的，暂时用不上
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.ManagerApiController">
+            <summary>
+            管理员//应该是管理员管理，通用的
+            </summary>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.ManagerApiController.UserCount(Application.Areas.SystemManage.Controllers.Dto.UserCountInput)">
+            <summary>
+            人员个数//有时间了把他去了
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.ManagerApiController.UserList(System.DateTime,System.DateTime,Application.Areas.SystemManage.Controllers.Dto.UserCountInput)">
+            <summary>
+            通过日期范围查
+            </summary>
+            <param name="initPassWordInput"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.ManagerApiController.DrpListRole">
+             <summary>
+            角色下拉菜单//不用改//后期给类型搞一个
+             </summary>
+             <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.ManagerApiController.leixingxiala">
+             <summary>
+            类型下拉菜单
+             </summary>
+             <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.ManagerApiController.UserAccountValidate(Application.Areas.SystemManage.Controllers.Dto.UserAccountValidateInput)">
+            <summary>
+            用户帐号验证//已改为可以重复
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.ManagerApiController.chafanwei(System.DateTime,System.DateTime,Application.Areas.SystemManage.Controllers.Dto.UserCountInput)">
+            <summary>
+            通过日期范围查
+            </summary>
+            <param name="initPassWordInput"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.ManagerApiController.UserSave(Application.Areas.SystemManage.Controllers.Dto.UserSaveInput)">
+            <summary>
+            用户保存
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.ManagerApiController.UserSingleInfo(Application.Areas.SystemManage.Controllers.Dto.InitPassWordInput)">
+            <summary>
+            用户单条信息//应该跟查询有关
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.ManagerApiController.UserDelete(Application.Areas.SystemManage.Controllers.Dto.InitPassWordInput)">
+            <summary>
+            用户删除
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.ManagerApiController.InitPassWord(Application.Areas.SystemManage.Controllers.Dto.InitPassWordInput)">
+            <summary>
+            密码初始化//这个没用
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.ManagerController">
+            <summary>
+            管理控制器，关于权限的暂时都不用管，用不上，技术也不够
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.RoleApiController">
+            <summary>
+            角色管理//与成员管理基本一致，可借用
+            </summary>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.RoleApiController.RoleInfo(Application.Areas.SystemManage.Controllers.Dto.RoleInfoInput)">
+            <summary>
+            角色信息 包括角色信息及角色菜单信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.RoleApiController.ValidateRoleName(Application.Areas.SystemManage.Controllers.Dto.ValidateRoleNameInput)">
+            <summary>
+            验证角色菜单名称
+            </summary>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.RoleApiController.ValidateRoleCode(Application.Areas.SystemManage.Controllers.Dto.ValidateRoleNameInput)">
+            <summary>
+            验证角色菜单编码
+            </summary>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.RoleApiController.SaveRoleInfo(Application.Areas.SystemManage.Controllers.Dto.SaveRoleInfoInput)">
+             <summary>
+             保存角色信息
+             </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.RoleApiController.RoleCount(Application.Areas.SystemManage.Controllers.Dto.RoleSearchInput)">
+            <summary>
+            角色个数 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.RoleApiController.RoleList(Application.Areas.SystemManage.Controllers.Dto.RoleSearchInput)">
+            <summary>
+            角色列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Controllers.RoleApiController.RoleDelete(Application.Areas.SystemManage.Controllers.Dto.RoleInfoInput)">
+            <summary>
+            角色删除
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Controllers.RoleController">
+            <summary>
+            角色控制，也不用管
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Data.AIncomePaymentDetail">
+            <summary>
+            账单接口实现之地
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Application.Areas.SystemManage.Data.AIncomePaymentDetail.shanchu(System.String)" -->
+        <member name="M:Application.Areas.SystemManage.Data.AIncomePaymentDetail.tianjiaxiugai(Application.Areas.SystemManage.Models.CreateOrUpdateTeacherCourseInput)">
+            <summary>
+            添加或修改账单
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Application.Areas.SystemManage.Data.AIncomePaymentDetail.huoqvtianjiaxiugaixinxi(Application.Areas.SystemManage.Models.GetTeacherCourseInput)" -->
+        <member name="T:Application.Areas.SystemManage.Data.BIncomePaymentDetail">
+            <summary>
+            账单接口定义之地
+            </summary>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Data.BIncomePaymentDetail.tianjiaxiugai(Application.Areas.SystemManage.Models.CreateOrUpdateTeacherCourseInput)">
+            <summary>
+            添加或修改账单数据
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Application.Areas.SystemManage.Data.BIncomePaymentDetail.huoqvtianjiaxiugaixinxi(Application.Areas.SystemManage.Models.GetTeacherCourseInput)" -->
+        <!-- Badly formed XML comment ignored for member "M:Application.Areas.SystemManage.Data.BIncomePaymentDetail.shanchu(System.String)" -->
+        <member name="T:Application.Areas.SystemManage.Data.IStartandend">
+            <summary>
+            账单管理
+             </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Data.Startandend">
+            <summary>
+            开始和结束
+            </summary>
+        </member>
+        <member name="M:Application.Areas.SystemManage.Data.Startandend.kaishi(Application.Areas.SystemManage.Models.Q_IncomePaymentDetail,Dal.Designer.Q_Member,Dal.Designer.Q_Income,Dal.Designer.Q_Expenditure,Application.Areas.SystemManage.Models.CreateOrUpdateTeacherCourseInput,Application.Areas.SystemManage.Models.GetTeacherCourseInput,Application.Areas.SystemManage.Models.DreateOrUpdateTeacherCourseInput)">
+            <summary>
+            时间范围
+            </summary>
+            <param name="_IncomePaymentDetail"></param>
+            <param name="_Member"></param>
+            <param name="_Income"></param>
+            <param name="_Expenditure"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Models.CreateOrUpdateTeacherCourseInput">
+            <summary>
+            输入数据之地
+            </summary>    
+            <returns></returns>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.CreateOrUpdateTeacherCourseInput.typelass">
+            <summary>
+            类型
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.CreateOrUpdateTeacherCourseInput.memberId">
+            <summary>
+            成员
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.CreateOrUpdateTeacherCourseInput.useType">
+            <summary>
+            使用，用途
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.CreateOrUpdateTeacherCourseInput.money">
+            <summary>
+            金额
+            </summary>
+        </member>
+        <member name="F:Application.Areas.SystemManage.Models.CreateOrUpdateTeacherCourseInput.DateTime">
+            <summary>
+            时间
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.CreateOrUpdateTeacherCourseInput.memo">
+            <summary>
+            备忘录
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.CreateOrUpdateTeacherCourseInput.isDel">
+            <summary>
+            是否删除
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Models.DreateOrUpdateTeacherCourseInput">
+            <summary>
+            输出数据之地
+            </summary>    
+            <returns></returns>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.DreateOrUpdateTeacherCourseInput.resultInfo">
+            <summary>
+            结果信息
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.DreateOrUpdateTeacherCourseInput.listUserInfo">
+            <summary>
+            帐单列表信息
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Models.Output">
+            <summary>
+            账单名字
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Output.Id">
+            <summary>
+            账单Id
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Output.Typelass">
+            <summary>
+            类型
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Output.MemberId">
+            <summary>
+            成员
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Output.UseType">
+            <summary>
+            使用，用途
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Output.Money">
+            <summary>
+            金额
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Output.qiro">
+            <summary>
+            时间
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Output.Memo">
+            <summary>
+            备忘录
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Output.IsDel">
+            <summary>
+            是否删除
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Models.GetTeacherCourseInput">
+             <summary>
+            时间获取
+             </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.GetTeacherCourseInput.DateTime">
+            <summary>
+            通过时间获取
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.GetTeacherCourseInput.kaishiDateTime">
+            <summary>
+            开始时间
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.GetTeacherCourseInput.jieshuDateTime">
+            <summary>
+            结束时间
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.GetTeacherCourseInput.pageIndex">
+            <summary>
+            第X页页码（从1开始）
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.GetTeacherCourseInput.pageSize">
+            <summary>
+            每页条数
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Models.Q_IIncomePaymentDetail">
+            <summary>
+            账单表管理
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IIncomePaymentDetail.TenantId">
+            <summary>
+            账单名字
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IIncomePaymentDetail.Typeclass">
+            <summary>
+            类型(收入1支出0）
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IIncomePaymentDetail.memberId">
+            <summary>
+            成员
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IIncomePaymentDetail.Usetype">
+            <summary>
+             使用，用途
+             </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IIncomePaymentDetail.Money">
+            <summary>
+            金额
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IIncomePaymentDetail.Datetime">
+            <summary>
+            日期.时间
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IIncomePaymentDetail.Memo">
+            <summary>
+            备忘录
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IIncomePaymentDetail.IsDel">
+            <summary>
+            是否删除
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Models.Q_IncomePaymentDetail">
+            <summary>
+            账单表管理实体
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IncomePaymentDetail.TenantId">
+            <summary>
+            账单名字
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IncomePaymentDetail.Typeclass">
+            <summary>
+            类型(收入1支出0）
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IncomePaymentDetail.memberId">
+            <summary>
+            成员
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IncomePaymentDetail.Usetype">
+            <summary>
+             使用，用途
+             </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IncomePaymentDetail.Money">
+            <summary>
+            金额
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IncomePaymentDetail.Datetime">
+            <summary>
+            日期.时间
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IncomePaymentDetail.Memo">
+            <summary>
+            备忘录
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.Q_IncomePaymentDetail.IsDel">
+            <summary>
+            是否删除
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Models.Typeclass">
+            <summary>
+            类型枚举
+            </summary>
+        </member>
+        <member name="F:Application.Areas.SystemManage.Models.Typeclass.Expenditure">
+            <summary>
+            支出
+            </summary>
+        </member>
+        <member name="F:Application.Areas.SystemManage.Models.Typeclass.Income">
+            <summary>
+            收入
+            </summary>
+        </member>
+        <member name="T:Application.Areas.SystemManage.Models.shurubaocun">
+            <summary>
+            账单输入保存
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.shurubaocun.Id">
+            <summary>
+            账单Id
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.shurubaocun.Typelass">
+            <summary>
+            类型
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.shurubaocun.MemberId">
+            <summary>
+            成员
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.shurubaocun.UseType">
+            <summary>
+            使用，用途
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.shurubaocun.Money">
+            <summary>
+            金额
+            </summary>
+        </member>
+        <member name="F:Application.Areas.SystemManage.Models.shurubaocun.DateTime">
+            <summary>
+            时间
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.shurubaocun.Memo">
+            <summary>
+            备忘录
+            </summary>
+        </member>
+        <member name="P:Application.Areas.SystemManage.Models.shurubaocun.IsDel">
+            <summary>
+            是否删除
+            </summary>
+        </member>
+        <member name="F:Application.AuthAttribute._memberType">
+            <summary>
+            1：管理用户    2：企业用户   3：个人用户
+            </summary>
+        </member>
+        <member name="M:Application.B_TreeAddChild.AddChildrenNode(Dal.C_Tree,System.Collections.Generic.List{Dal.T_Menu})">
+            <summary>
+            添加孩子节点
+            </summary>
+            <param name="ctPid">父节点</param>
+            <param name="listAllMenu">所有可用的菜单功能信息</param>
+        </member>
+        <member name="M:Application.B_TreeAddChild.MenuAddChildrenNode(Application.Areas.SystemManage.Controllers.Dto.TreeNode,System.Collections.Generic.List{Dal.T_Menu})">
+            <summary>
+            添加功能菜单孩子节点
+            </summary>
+            <param name="ctPid">父节点</param>
+            <param name="listAllMenu">所有可用的菜单功能信息</param>
+        </member>
+        <member name="T:Application.CommonDto.ResultCountOutput">
+            <summary>
+            带返回记录总数的输出参数
+            </summary>
+        </member>
+        <member name="P:Application.CommonDto.ResultCountOutput.resultInfo">
+            <summary>
+            结果信息
+            </summary>
+        </member>
+        <member name="P:Application.CommonDto.ResultCountOutput.recordCount">
+            <summary>
+            记录总数
+            </summary>
+        </member>
+        <member name="T:Application.CommonDto.ResultInfoOutput">
+            <summary>
+            通用输出，只有结果信息1
+            </summary>
+        </member>
+        <member name="P:Application.CommonDto.ResultInfoOutput.resultInfo">
+            <summary>
+            结果信息
+            </summary>
+        </member>
+        <member name="T:Application.Controllers.Dto.EditPassWordInput">
+            <summary>
+            修改密码输入//不用管
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.EditPassWordInput.userId">
+            <summary>
+            用户ID
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.EditPassWordInput.oldPass">
+            <summary>
+            老密码
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.EditPassWordInput.newPass">
+            <summary>
+            新密码
+            </summary>
+        </member>
+        <member name="T:Application.Controllers.Dto.EditPassWordOutput">
+            <summary>
+            修改密码输出//不用管
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.EditPassWordOutput.ResultInfo">
+            <summary>
+            结果信息
+            </summary>
+        </member>
+        <member name="T:Application.Controllers.Dto.ExportExcelOutput">
+            <summary>
+            应该是excel导出出口//也不用管
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.ExportExcelOutput.downLoadPath">
+            <summary>
+            下载文件路径
+            </summary>
+        </member>
+        <member name="T:Application.Controllers.Dto.MainPageLoadMenuInput">
+            <summary>
+            主页菜单输入?//不太懂，也不用管
+            </summary>
+        </member>
+        <member name="T:Application.Controllers.Dto.MainPageLoadMenuOutput">
+            <summary>
+            应该是主页菜单输出//也不用管
+            </summary>
+        </member>
+        <member name="T:Application.Controllers.Dto.ResultInfo">
+            <summary>
+            结果信息，不用管1
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.ResultInfo.IsSuccess">
+            <summary>
+            1:成功 0：失败
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.ResultInfo.ErrorInfo">
+            <summary>
+            错误信息
+            </summary>
+        </member>
+        <member name="T:Application.Controllers.Dto.UerLoginEncryptInput">
+            <summary>
+            加密输入，密码输入，不用管
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "P:Application.Controllers.Dto.UerLoginEncryptInput.userName" -->
+        <member name="P:Application.Controllers.Dto.UerLoginEncryptInput.userPass">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.UerLoginEncryptInput.validateCode">
+            <summary>
+            验证码
+            </summary>
+        </member>
+        <member name="T:Application.Controllers.Dto.UserLoginInput">
+            <summary>
+            用户登录输入
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.UserLoginInput.Name">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.UserLoginInput.PassWord">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="T:Application.Controllers.Dto.UserLoginOutput">
+            <summary>
+            用户登录输出//得改，但用户不是管理员
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.UserLoginOutput.ResultInfo">
+            <summary>
+            结果信息
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.UserLoginOutput.UserId">
+            <summary>
+            用户ID
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.UserLoginOutput.UserName">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.UserLoginOutput.UserAccount">
+            <summary>
+            帐号
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.UserLoginOutput.UserRoleIds">
+            <summary>
+            用户拥有的角色，以"$"连接
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.UserLoginOutput.UserToken">
+            <summary>
+            用户授权token
+            </summary>
+        </member>
+        <member name="P:Application.Controllers.Dto.UserLoginOutput.riqi">
+            <summary>
+            用户授权日期，哈哈
+            </summary>
+        </member>
+        <member name="M:Application.Controllers.ExcelImportExportDemoApiController.ImportExcel">
+            <summary>
+            导入EXCEL
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Controllers.ExcelImportExportDemoApiController.ExportExcel">
+            <summary>
+            导出EXCEL
+            </summary>
+        </member>
+        <member name="T:Application.Controllers.LoginApiController">
+            <summary>
+            用户登录--后期改，但很重要
+            </summary>
+        </member>
+        <member name="M:Application.Controllers.LoginApiController.UserLogin(Application.Controllers.Dto.UserLoginInput)">
+            <summary>
+            后台管理员用户登录
+            </summary>
+            <param name="uli">用户登录参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Application.Controllers.LoginApiController.UserLoginEncrypt(Application.Controllers.Dto.UerLoginEncryptInput)">
+            <summary>
+            后台管理员用户登录
+            </summary>
+            <param name="uerLoginEncryptInput">用户登录参数</param>
+            <returns></returns>
+        </member>
+        <member name="T:Application.Controllers.LoginController">
+            <summary>
+            登陆控制器暂时用不上
+            </summary>
+        </member>
+        <member name="T:Application.Controllers.MainApiController">
+            <summary>
+            后台主框架
+            </summary>
+        </member>
+        <member name="M:Application.Controllers.MainApiController.EditPassword(Application.Controllers.Dto.EditPassWordInput)">
+            <summary>
+            修改密码不用管
+            </summary>
+        </member>
+        <member name="M:Application.Controllers.MainApiController.MainPageLoadMenu(Application.Controllers.Dto.MainPageLoadMenuInput)">
+            <summary>
+            主页面加载菜单
+            </summary>
+        </member>
+        <member name="T:Application.Controllers.MainController">
+            <summary>
+            主控制器，没想好干什么用的
+            </summary>
+        </member>
+        <member name="M:Application.CustomExceptionFilter.OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)">
+            <summary>
+            发生异常进入
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="T:Application.EntityToEntity">
+            <summary>
+            真正的写法之地
+            </summary>
+        </member>
+        <member name="M:Application.EntityToEntity.SetPropertieValues(System.Object,System.Object,System.Boolean,System.Collections.Generic.List{System.String})">
+            <summary>
+            公共静态，为对象数据提供程序
+            </summary>
+            <param name="target"></param>
+            <param name="dataProvider"></param>
+            <param name="bCopyNull"></param>
+            <param name="lsExcludeProeprtys"></param>
+        </member>
+        <member name="T:Application.ExtendMethod">
+            <summary>
+            扩展方法//看不懂
+            </summary>
+        </member>
+        <member name="M:Application.ExtendMethod.CreateRsaProviderFromPrivateKey(System.String)">
+            <summary>
+            根据密钥创建RsaProvider
+            </summary>
+            <param name="privateKey"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Application.ExtendMethod.DESEncrypt(System.String,System.String)">
+            <summary> 
+            DES加密字符串 
+            </summary> 
+            <param name="encryptString">待加密的字符串</param> 
+            <param name="encryptKey">加密密钥,要求为16位</param> 
+            <returns>加密成功返回加密后的字符串，失败返回源串</returns> 
+        </member>
+        <member name="M:Application.ExtendMethod.DESDecrypt(System.String,System.String)">
+            <summary> 
+            DES解密字符串 
+            </summary> 
+            <param name="decryptString">待解密的字符串</param> 
+            <param name="decryptKey">解密密钥,要求为16位,和加密密钥相同</param> 
+            <returns>解密成功返回解密后的字符串，失败返源串</returns> 
+        </member>
+        <member name="P:Application.HttpContext.Current">
+            <summary>
+            当前上下文
+            </summary>
+        </member>
+        <member name="T:Dal.Designer.Q_Expenditure">
+             <summary>
+            支出
+             </summary>
+        </member>
+        <member name="P:Dal.Designer.Q_Expenditure.TenantId">
+             <summary>
+            支出
+             </summary>
+        </member>
+        <member name="P:Dal.Designer.Q_Expenditure.Usetype">
+             <summary>
+            用途
+             </summary>
+        </member>
+        <member name="P:Dal.Designer.Q_Expenditure.Time">
+             <summary>
+            时间
+             </summary>
+        </member>
+        <member name="P:Dal.Designer.Q_Expenditure.Memo">
+             <summary>
+            备忘录
+             </summary>
+        </member>
+        <member name="P:Dal.Designer.Q_Expenditure.IsDel">
+            <summary>
+            是否删除
+            </summary>
+        </member>
+        <member name="T:Dal.Designer.Q_Income">
+             <summary>
+            收入
+             </summary>
+        </member>
+        <member name="P:Dal.Designer.Q_Income.TenantId">
+             <summary>
+            支出Id
+             </summary>
+        </member>
+        <member name="P:Dal.Designer.Q_Income.Source">
+             <summary>
+            来源
+             </summary>
+        </member>
+        <member name="P:Dal.Designer.Q_Income.Time">
+             <summary>
+            时间
+             </summary>
+        </member>
+        <member name="P:Dal.Designer.Q_Income.Memo">
+             <summary>
+            备忘录
+             </summary>
+        </member>
+        <member name="P:Dal.Designer.Q_Income.IsDel">
+            <summary>
+            是否删除
+            </summary>
+        </member>
+        <member name="T:Dal.Designer.Q_Member">
+             <summary>
+            成员
+             </summary>
+        </member>
+        <member name="P:Dal.Designer.Q_Member.TenantId">
+             <summary>
+            成员
+             </summary>
+        </member>
+        <member name="P:Dal.Designer.Q_Member.Name">
+             <summary>
+            成员名字
+             </summary>
+        </member>
+    </members>
+</doc>

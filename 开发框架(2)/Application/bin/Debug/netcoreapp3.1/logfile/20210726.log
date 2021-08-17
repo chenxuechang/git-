@@ -1,0 +1,2 @@
+2021-07-26 14:50:40,180 [4] ERROR  - api/LoginApi/UserLoginEncrypt:Input string was not in a correct format.
+2021-07-26 16:15:51,508 [27] ERROR  - api/MainApi/MainPageLoadMenu:The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
