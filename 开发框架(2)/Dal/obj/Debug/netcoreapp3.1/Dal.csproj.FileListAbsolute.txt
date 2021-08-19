@@ -83,3 +83,16 @@ D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2
 D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.dll
 D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.pdb
 D:\练习\新建文件夹 (2)\新建文件夹\新建文件夹\新建文件夹 (2)\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Dal.deps.json
+D:\git\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Dal.dll
+D:\git\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\git\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Cathy.dll
+D:\git\开发框架(2)\Dal\bin\Debug\netcoreapp3.1\Cathy.pdb
+D:\git\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.AssemblyReference.cache
+D:\git\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfoInputs.cache
+D:\git\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfo.cs
+D:\git\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CoreCompileInputs.cache
+D:\git\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CopyComplete
+D:\git\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.dll
+D:\git\开发框架(2)\Dal\obj\Debug\netcoreapp3.1\Dal.pdb

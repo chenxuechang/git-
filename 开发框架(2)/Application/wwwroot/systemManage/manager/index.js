@@ -80,7 +80,7 @@
                 ],
                 shuriqi: [
                     { required: true, message: '请输入日期', trigger: 'blur' }
-                   // , {  Message: '请照格式输入qqqq-ww-ee', trigger: 'blur' }
+                   , {  Message: '请照格式输入qqqq-ww-ee', trigger: 'blur' }
                 ],
                 userSex: [
                     { required: true, message: '请选择类型', trigger: 'change' }
@@ -122,8 +122,8 @@
             //人员个数
             axios.post("/api/SystemManage/ManagerApi/UserCount",
                 {
-                   // userName: this.searchName,
-                    shuriqi:this.riqi1,
+                   //userName: this.searchName,
+                   shuriqi: this.riqi1,//当前条数弄坏了
                 },
                 {
                     headers: {
@@ -157,7 +157,7 @@
                 {
                     //userName: this.searchName,
                     //riqi: this.riqi,
-                    shuriqi: this.riqi1,
+                    shuriqi: this.shuriqi,
 
                     pageIndex: pageIndex,
                     pageSize: this.pageSize
@@ -217,35 +217,6 @@
             });
 
 
-
-            ////类型下拉
-            //ddEdit: async function (id) {
-            //    await axios.post("/api/SystemManage/ManagerApi/leixingxiala", {},
-            //        {
-            //            headers: {
-            //                Authorization: window.localStorage.getItem("storToken")
-            //            }
-            //        }
-            //    ).then(response => {
-            //        var res = response.data;
-            //        if (res.resultInfo.isSuccess == 1) {
-            //            this.userRole = res.leixingxialacaidan;
-            //        }
-            //        else {
-            //            this.$message({
-            //                duration: 1000,
-            //                type: 'warning',
-            //                message: res.resultInfo.errorInfo
-            //            });
-            //        }
-            //    }).catch(function (error) {
-            //        // 请求失败处理
-            //        console.log(error);
-            //    });
-
-
-
-
             //单条查询
             await axios.post("/api/SystemManage/ManagerApi/UserSingleInfo",
                 {
@@ -267,7 +238,11 @@
                 if (res.resultInfo.isSuccess == 1) {
                    
                     this.userInfo = res.userSaveInput;
-                    this.userInfo.riqi = res.riqi.riqi;
+                    this.userInfo.riqi = res.riqi.riqi
+                    if (id === '00000000-0000-0000-0000-000000000000') {
+                         this.userInfo.riqi = "123";
+                    }//先给将获得的值初始化，
+                   
                     this.userInfo.new = res.riqiNe;
                     console.log('******' + this.userInfo.riqi);
                     this.riqi = res.riqi.riqi;
@@ -517,8 +492,38 @@
             });
         }
     },
+    defaultDate() {
+            //获取新的时间
+            let date = new Date()
+            //获取当前时间的年份转为字符串
+            let year = date.getFullYear().toString()   //'2019'
+            //获取月份，由于月份从0开始，此处要加1，判断是否小于10，如果是在字符串前面拼接'0'
+            let month = date.getMonth() + 1 < 10 ? '0' + (date.getMonth() + 1).toString() : (date.getMonth() + 1).toString()  //'04'
+            //获取天，判断是否小于10，如果是在字符串前面拼接'0'
+            let da = date.getDate() < 10 ? '0' + date.getDate().toString() : date.getDate().toString()  //'12'
+            //字符串拼接，开始时间，结束时间
+            let start = year + '-' + month + '-' + da  //当天'2019-04-12'第一个框
+            let end = year + '-' + month + '-01'    //当月第一天'2019-04-01'第二个框
+            this.shuriqi = [start, end] //将值设置给插件绑定的数据
+        },
     created: function () {
-        this.search(1);
+        this.search(1);//默认开始查询一次
+
+        
+            //获取新的时间(2019.4.12）
+            let date = new Date()
+            //获取当前时间的年份转为字符串
+            let year = date.getFullYear().toString()   //'2019'
+            //获取月份，由于月份从0开始，此处要加1，判断是否小于10，如果是在字符串前面拼接'0'
+            let month = date.getMonth() + 1 < 10 ? '0' + (date.getMonth() + 1).toString() : (date.getMonth() + 1).toString()  //'04'
+            //获取天，判断是否小于10，如果是在字符串前面拼接'0'
+            let da = date.getDate() < 10 ? '0' + date.getDate().toString() : date.getDate().toString()  //'12'
+            //字符串拼接，开始时间，结束时间
+            let end = year + '-' + month + '-' + da  //当天'2019-04-12'
+            let start = year + '-' + month + '-01'    //当月第一天'2019-04-01'
+            this.shuriqi = [start, end] //将值设置给插件绑定的数据
+
+        
     }
 };
 

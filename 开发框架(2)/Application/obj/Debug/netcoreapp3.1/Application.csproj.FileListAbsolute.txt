@@ -1704,3 +1704,9 @@ D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.RazorTarg
 D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.Views.pdb
 D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
 D:\git\开发框架(2)\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\NPOI.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\git\开发框架(2)\Application\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll

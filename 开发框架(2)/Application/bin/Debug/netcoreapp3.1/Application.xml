@@ -587,22 +587,16 @@
             </summary>
             <returns></returns>
         </member>
-        <member name="M:Application.Areas.SystemManage.Controllers.ManagerApiController.UserList(System.DateTime,System.DateTime,Application.Areas.SystemManage.Controllers.Dto.UserCountInput)">
+        <member name="M:Application.Areas.SystemManage.Controllers.ManagerApiController.UserList(Application.Areas.SystemManage.Controllers.Dto.UserCountInput)">
             <summary>
             通过日期范围查
             </summary>
-            <param name="initPassWordInput"></param>
+            <param name="userCountInput"></param>
             <returns></returns>
         </member>
         <member name="M:Application.Areas.SystemManage.Controllers.ManagerApiController.DrpListRole">
              <summary>
             角色下拉菜单//不用改//后期给类型搞一个
-             </summary>
-             <returns></returns>
-        </member>
-        <member name="M:Application.Areas.SystemManage.Controllers.ManagerApiController.leixingxiala">
-             <summary>
-            类型下拉菜单
              </summary>
              <returns></returns>
         </member>

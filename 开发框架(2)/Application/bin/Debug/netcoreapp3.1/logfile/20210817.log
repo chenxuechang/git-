@@ -1,0 +1,19 @@
+2021-08-17 15:36:44,604 [13] ERROR  - api/SystemManage/ManagerApi/UserList:列名 'leixing' 无效。
+由于绑定错误，无法使用视图或函数 'V_User'。
+2021-08-17 15:44:37,394 [33] ERROR  - api/SystemManage/ManagerApi/UserCount:列名 'leixing' 无效。
+由于绑定错误，无法使用视图或函数 'V_User'。
+2021-08-17 15:46:15,769 [21] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-17 15:46:28,856 [21] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-17 15:47:05,033 [45] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-17 15:48:09,086 [33] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-17 16:37:06,931 [32] ERROR  - api/SystemManage/ManagerApi/UserList:Failed to compare two elements in the array.
+2021-08-17 20:00:42,945 [29] ERROR  - api/SystemManage/ManagerApi/UserList:Object reference not set to an instance of an object.
+2021-08-17 20:01:52,770 [29] ERROR  - api/SystemManage/ManagerApi/UserList:Object reference not set to an instance of an object.
+2021-08-17 20:02:48,522 [58] ERROR  - api/SystemManage/ManagerApi/UserList:Object reference not set to an instance of an object.
+2021-08-17 20:14:06,012 [85] ERROR  - api/SystemManage/ManagerApi/UserList:Object reference not set to an instance of an object.
+2021-08-17 20:14:17,356 [90] ERROR  - api/SystemManage/ManagerApi/UserList:Object reference not set to an instance of an object.
+2021-08-17 20:22:12,012 [109] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-17 20:22:17,043 [108] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-17 20:22:39,399 [109] ERROR  - api/SystemManage/ManagerApi/UserSave:SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2021-08-17 21:44:08,124 [32] ERROR  - api/SystemManage/ManagerApi/UserList:Object reference not set to an instance of an object.
+2021-08-17 21:44:18,094 [30] ERROR  - api/SystemManage/ManagerApi/UserList:Object reference not set to an instance of an object.

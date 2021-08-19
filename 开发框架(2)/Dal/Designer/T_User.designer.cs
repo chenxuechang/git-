@@ -92,6 +92,7 @@ namespace Dal
         /// 时间
         /// </summary>
         public System.DateTime riqi { get; set; }
+        //public System.DateTime riqi2 { get; set; }
         /// <summary>
         /// 时间
         /// </summary>

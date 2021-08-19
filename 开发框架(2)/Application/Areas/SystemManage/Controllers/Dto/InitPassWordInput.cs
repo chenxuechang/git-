@@ -17,7 +17,7 @@ namespace Application.Areas.SystemManage.Controllers.Dto
         /// <summary>
         /// 时间定位
         /// </summary>
-        public string[]  shuriqi { get; set; }
+        public string  shuriqi { get; set; }
         /// <summary>
         /// 开始定位
         /// </summary>

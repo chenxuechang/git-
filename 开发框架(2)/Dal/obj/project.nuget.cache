@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a8+FIs0KIXF9UTVeKq+NtPLL8WanUlOOZHjQqlTapK+1BqIt7DoKaOnRJKbCugzYtMrvdi3wXv7YNekQzlnJQg==",
+  "dgSpecHash": "wnKaMWD4MigTIM4Y2gF0xHKvQXSzquH5v1El/32Rzty3GFzMka3wWqpbCuzbH7SMKhupKzftTvhPOdTeHChjQw==",
   "success": true,
-  "projectFilePath": "D:\\git\\开发框架(2)\\Dal\\Dal.csproj",
+  "projectFilePath": "D:\\git库\\开发框架(2)\\Dal\\Dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\29874\\.nuget\\packages\\google.protobuf\\3.5.1\\google.protobuf.3.5.1.nupkg.sha512",
     "C:\\Users\\29874\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

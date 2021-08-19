@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 using Cathy;
 using System.Data.SqlClient;
 using Newtonsoft.Json.Converters;
+using NPOI.SS.Formula.Functions;
+using Dal;
 
 namespace Application.Areas.SystemManage.Controllers
 {
@@ -53,64 +55,54 @@ namespace Application.Areas.SystemManage.Controllers
         }
 
 
+        //[HttpPost]
+        //public Dto.UserCountOutput UserCount1(Dto.UserCountInput userCountInput)//数量结果//用户查询输入
+        //{
+        //}
 
 
 
         /// <summary>
         /// 通过日期范围查
         /// </summary>
-        /// <param name="initPassWordInput"></param>
+        /// <param name="userCountInput"></param>
         /// <returns></returns>
         [HttpPost]
-        public Dto.UserListOutput UserList(DateTime ks, DateTime js, Dto.UserCountInput userCountInput)//输出//输入
+        public Dto.UserListOutput UserList(/*DateTime ks, DateTime js,*/ Dto.UserCountInput userCountInput)//输出//输入
         {
             string strWhere = " IsDel='0'";
             List<SqlParameter> sqlParas = new List<SqlParameter>();
-            if (userCountInput.shuriqi + "" != "")
-            {
-                strWhere += " and riqi like @riqi";
-                sqlParas.Add(new SqlParameter("@riqi", "%" + userCountInput.shuriqi + "%"));
-            }
-            //Dal.V_User tdc = new Dal.V_User();//把用户表new过来，省的封装注入
-            //if (tdc != null)
-            //{
-            //    var now = DateTime.Now;//当前时间
-            //    DateTime d1 = now.AddDays(1 - now.Day);//本月月初
-            //}
+
+            //if (!string.IsNullOrEmpty(strWhere))//strwhere为null时用的，但好像没啥用
+            //for (int i = 0; i <0; i++)//瞎搞的
             
-            var q = new Dal.T_User();//new进平台用户表格
-            var initPassWordInput = new Dto.InitPassWordInput();//定位输出表
-            string surriqi = initPassWordInput.shuriqi + "";//通过日期定位
-            var list = q.Fill("*", "riqi={@p0}", surriqi);//通过日期定位
-            //var qqq = userCountInput;
-            var w = from e in list
-                    select new
-                    {
-                        UserId = e.UserId,
-                        riqi = e.riqi,//开始日期
-                        //riq = e.riqi,
-                        riqi2 = e.riqi.ToString(),//结束日期
 
-                    };//引出全部数据
-            DateTime Kaishi = Convert.ToDateTime(ks);//给开始日期赋值
-            DateTime Jieshu = Convert.ToDateTime(js);//给结束日期赋值
-            w = w.Where(m => m.riqi >= ks && m.riqi<= js);//赋值日期范围
-       
 
+                if (userCountInput.shuriqi!=null&&userCountInput.shuriqi.Length == 2 )//日期的个数长度//也就是说有俩
+                {
+                    strWhere += " and riqi >='" + userCountInput.shuriqi[0] + "' and riqi <='" + userCountInput.shuriqi[1] + "'";
+                    sqlParas.Add(new SqlParameter("@riqi", "%" + userCountInput.shuriqi + "%"));
+                }
+            //    else
+            //{
+            //T s = null;
+
+            //    //strWhere += " and riqi >='" + userCountInput.shuriqi[0] + "' and riqi <='" + userCountInput.shuriqi[1] + "'";
+            //    //sqlParas.Add(new SqlParameter("@riqi", "%" + userCountInput.shuriqi + "%"));
+            //}
+            //DateTime.Now.Year.ToString() + DateTime.Now.Month.ToString() + "1"; //第一天
+            //DateTime.Parse(DateTime.Now.Year.ToString() + DateTime.Now.Month.ToString() + "1").AddMonths(1).AddDays(-1).ToShortDateString();
+
+
+           
+        
+           
+            //}
             //new出用户实体，给用户实体赋方法（先排序在分页）
             Dal.V_User tdc = new Dal.V_User();
     
             List<Dal.V_User> listUser = tdc.Query(strWhere, "CreateTime desc", sqlParas, (userCountInput.pageIndex - 1) * userCountInput.pageSize, userCountInput.pageSize);
-
-            ////使用Lambda表达式
-            //List<Dal.V_User> ww = this.vdb.SCard(e.Sender);
-            ////返回的数据 是按时间排好的数据了。
-            //var listData = w.OrderBy(s => s.WarnTime);
-
-
-
-
-
+            
             //new出来用户输出表和用户输出表的用户信息
             Dto.UserListOutput listOutput = new Dto.UserListOutput();//new进来用户输出表
             List<Dto.UserInfo> listUserInfo = new List<Dto.UserInfo>();//new进来用户信息
@@ -121,7 +113,10 @@ namespace Application.Areas.SystemManage.Controllers
                 Dto.UserInfo userListOutput = new Dto.UserInfo();
                 userListOutput.riqi = singleUser.riqi.ToString("yyyy-MM-dd");
                 userListOutput.SetPropertieValues(singleUser);
+                //listUserInfo.Sort();
                 listUserInfo.Add(userListOutput);//最后添加
+         
+
             }
             //最后输出的地方
             Application.Controllers.Dto.ResultInfo ri = new Application.Controllers.Dto.ResultInfo();//把调出的数据new给结果信息
@@ -130,8 +125,6 @@ namespace Application.Areas.SystemManage.Controllers
             listOutput.listUserInfo = listUserInfo;//把调出的用户数据给listOutput
             return listOutput;//输出listOutput
         }
-
-
         ///// <summary>
         ///// 管理员信息//yinhghaishizhe 
         ///// </summary>
@@ -198,24 +191,24 @@ namespace Application.Areas.SystemManage.Controllers
         }
 
 
-        /// <summary>
-        ///类型下拉菜单
-        /// </summary>
-        /// <returns></returns>
-        [HttpPost]
-        public  Dto.leixingxialacanshu leixingxiala()
-        {
-            Dal.Designer.A_leixingxialacaidan trm = new Dal.Designer.A_leixingxialacaidan();
-            List<Dal.Designer.A_leixingxialacaidan> ww = trm.FillOrder("*", "UserId=''", "UserId");
+        ///// <summary>
+        /////类型下拉菜单
+        ///// </summary>
+        ///// <returns></returns>
+        //[HttpPost]
+        //public  Dto.leixingxialacanshu leixingxiala()
+        //{
+        //    Dal.Designer.A_leixingxialacaidan trm = new Dal.Designer.A_leixingxialacaidan();
+        //    List<Dal.Designer.A_leixingxialacaidan> ww = trm.FillOrder("*", "UserId=''", "UserId");
 
-            Dto.leixingxialacanshu drpListRoleOutput = new Dto.leixingxialacanshu();
-            Application.Controllers.Dto.ResultInfo ri = new Application.Controllers.Dto.ResultInfo();
-            ri.IsSuccess = 1;
-            drpListRoleOutput.resultInfo = ri;
-            drpListRoleOutput.leixingxialacaidan = ww;
+        //    Dto.leixingxialacanshu drpListRoleOutput = new Dto.leixingxialacanshu();
+        //    Application.Controllers.Dto.ResultInfo ri = new Application.Controllers.Dto.ResultInfo();
+        //    ri.IsSuccess = 1;
+        //    drpListRoleOutput.resultInfo = ri;
+        //    drpListRoleOutput.leixingxialacaidan = ww;
 
-            return drpListRoleOutput;
-        }
+        //    return drpListRoleOutput;
+        //}
 
 
         /// <summary>

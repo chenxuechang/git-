@@ -52,7 +52,7 @@
             treeData: [],
             searchName: "",
             riqi:"",
-            riqi1:"",
+            //riqi1:"",
             total: 1000,
             pageSize: 10,
             roleListInfo: [],

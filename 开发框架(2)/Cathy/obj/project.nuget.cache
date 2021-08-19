@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F0UqFRErZsazDIwKCT3F3fncIQkl67bu/vjeobtOR43xPlr6OYCgywdWtTsAAe4zjDbTrlNSWp3eyTpkpDqlqA==",
+  "dgSpecHash": "1fy9I8GP5ojXiF+BB5kxxq+UXjv2KplL0GT+EB5kuWWdrnsbbgeo/xCZhtHf95v4LeQ+wH24e/a51X3qZ65yrg==",
   "success": true,
-  "projectFilePath": "D:\\git\\开发框架(2)\\Cathy\\Cathy.csproj",
+  "projectFilePath": "D:\\git库\\开发框架(2)\\Cathy\\Cathy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\29874\\.nuget\\packages\\google.protobuf\\3.5.1\\google.protobuf.3.5.1.nupkg.sha512",
     "C:\\Users\\29874\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

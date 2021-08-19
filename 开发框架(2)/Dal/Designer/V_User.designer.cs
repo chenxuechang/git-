@@ -59,6 +59,10 @@ namespace Dal
         /// 账单日期
         /// </summary>
         public DateTime riqi { get; set; }
+        ///// <summary>
+        ///// 终止日期
+        ///// </summary>
+        //public DateTime riqi2 { get; set; }
 
 
         public System.String[]shuriqi { get; set; } 
